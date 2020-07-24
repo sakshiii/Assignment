@@ -1,0 +1,19 @@
+body{
+    background-color:#DAE0E2;
+}
+
+.abc
+{
+    padding: 6px;
+    background-color:#47535E;
+    margin-right: 8px;
+    color: aliceblue;
+}
+
+.bcd{
+    padding: 6px;
+    background-color:#ffffff;
+    margin-top: 0px !important;
+    margin-right: 8px;
+    color: black;   
+}
